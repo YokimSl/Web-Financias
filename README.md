@@ -5,6 +5,7 @@ O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, pe
 
 
 
+
 # Tecnologias
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
