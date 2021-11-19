@@ -15,6 +15,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 <li>MirageJS</li>
 <li>Axios</li>
 <li>Polished</li>
+<li>JavaScript<li>
 
 # Instalação e uso
  Instale as dependências
